@@ -1,3 +1,5 @@
+# Deprecated !!!
+> I have decided to deprecate this tool favor of [subhranil-179/seo](https://github.com/subhranil-179/seo).
 # Get the Keyword from slug
 ## Follow the steps:
 1. Enter python3 -m pip install -r requirements.txt
